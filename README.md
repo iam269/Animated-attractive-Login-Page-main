@@ -4,6 +4,9 @@ Creating Animated Login Page with awesome background HTML &amp; CSS.
 ## Description 📝
 This project showcases an animated and visually appealing login page crafted with HTML and CSS. It features smooth animations, a stunning background image, and a responsive design that works seamlessly across devices. Ideal for enhancing the user experience of web applications with an attractive login interface. 🚀✨🌟
 
+## Live Demo 🌐
+Check out the live demo: [https://iam269.github.io/Animated-attractive-Login-Page-main/](https://iam269.github.io/Animated-attractive-Login-Page-main/)
+
 ## Features ✨
 - Smooth CSS animations for interactive elements 🎨
 - Attractive background with custom images 🖼️
